@@ -1,2 +1,5 @@
 numpy==1.26.1
 matplotlib==3.8.0
+scikit-image==0.22.0
+pooch==1.8.0
+ipympl==0.9.3
